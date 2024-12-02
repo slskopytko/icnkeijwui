@@ -1,0 +1,4 @@
+- pipeline: jskfplijrd
+  refs:
+  - refs/heads/master
+  on: CLICK
